@@ -14,7 +14,6 @@
 - Latest and updated login pages.
 - Mask URL support 
 - Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
 - Multiple tunneling options
   - Localhost
   - Ngrok (With or without hotspot)
@@ -24,26 +23,26 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/aarush-paul/zphisher-ap
+$ git clone https://github.com/aarush-paul/evil-eye.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `evil-eye.sh` -
 ```
-$ cd zphisher-ap
-$ bash zphisher.sh
+$ cd evil-eye
+$ bash evil-eye.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Evil Eye` is installed.
 
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`Evil Eye`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `Evil Eye` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
