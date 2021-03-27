@@ -1,5 +1,12 @@
-<p>
+<p align="center">
 <img src=".img/icon.png">
+</p>
+<h1 align="center">Evil Eye</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Author-Aarush%20Paul-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=for-the-badge">
 </p>
 
 ### Features
