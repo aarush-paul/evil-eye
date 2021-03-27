@@ -53,12 +53,13 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-    ${ORANGE}.,:::::::::      .::.::: :::    .,::::::.-:.     ::-..,::::::  
-    ${ORANGE};;;;''''';;,   ,;;;' ;;; ;;;    ;;;;'''' ';;.   ;;;;';;;;''''  
-    ${ORANGE} [[cccc  \[[  .[[/   [[[ [[[     [[cccc    '[[,[[['   [[cccc   
-    ${ORANGE} $$""""   Y$c.$$"    $$$ $$'     $$""""      c$$"     $$""""   
-    ${ORANGE} 888oo,__  Y88P      888o88oo,.__888oo,__  ,8P"`      888oo,__ 
-    ${ORANGE} """"YUMMM  MP       MMM""""YUMMM""""YUMMMmM"         """"YUMMM
+    ${ORANGE} _|_|_|_|              _|  _|  _|_|_|_|                      
+    ${ORANGE} _|        _|      _|      _|  _|        _|    _|    _|_|    
+    ${ORANGE} |_|_|     _|      _|  _|  _|  _|_|_|    _|    _|  _|_|_|_|  
+    ${ORANGE} _|          _|  _|    _|  _|  _|        _|    _|  _|        
+    ${ORANGE} _|_|_|_|      _|      _|  _|  _|_|_|_|    _|_|_|    _|_|_|  
+    ${ORANGE}                                               _|            
+    ${ORANGE}                                           _|_|_|              
 
                                                   ${RED}Version : 1.0
          
@@ -69,14 +70,15 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-    ${ORANGE}.,:::::::::      .::.::: :::    .,::::::.-:.     ::-..,::::::  
-    ${ORANGE};;;;''''';;,   ,;;;' ;;; ;;;    ;;;;'''' ';;.   ;;;;';;;;''''  
-    ${ORANGE} [[cccc  \[[  .[[/   [[[ [[[     [[cccc    '[[,[[['   [[cccc   
-    ${ORANGE} $$""""   Y$c.$$"    $$$ $$'     $$""""      c$$"     $$""""   
-    ${ORANGE} 888oo,__  Y88P      888o88oo,.__888oo,__  ,8P"`      888oo,__ 
-    ${ORANGE} """"YUMMM  MP       MMM""""YUMMM""""YUMMMmM"         """"YUMMM
-
-                                                  ${RED}Version : 1.0
+    ${ORANGE} _|_|_|_|              _|  _|  _|_|_|_|                      
+    ${ORANGE} _|        _|      _|      _|  _|        _|    _|    _|_|    
+    ${ORANGE} |_|_|     _|      _|  _|  _|  _|_|_|    _|    _|  _|_|_|_|  
+    ${ORANGE} _|          _|  _|    _|  _|  _|        _|    _|  _|        
+    ${ORANGE} _|_|_|_|      _|      _|  _|  _|_|_|_|    _|_|_|    _|_|_|  
+    ${ORANGE}                                               _|            
+    ${ORANGE}                                           _|_|_|             
+    
+	                                              ${RED}Version : 1.0
          
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
 	EOF
