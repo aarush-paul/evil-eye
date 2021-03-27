@@ -1,4 +1,6 @@
-<h1 align="center">Zphiser-ap</h1>
+<p>
+<img src=".img/icon.png">
+</p>
 
 ### Features
 
