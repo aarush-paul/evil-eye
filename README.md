@@ -1,4 +1,4 @@
-<p align="center"><img src=".imgs/icon.png"></p>
+<p align="center"><img src=".img/icon.png"></p>
 
 ### Features
 
