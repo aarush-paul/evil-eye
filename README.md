@@ -4,9 +4,9 @@
 <h1 align="center"><img src="https://img.shields.io/badge/-Evil%20Eye-red?style=for-the-badge" width="500" height="100"></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-green?style=flat-square&logo=appveyor">
-  <img src="https://img.shields.io/badge/Author-Aarush%20Paul-blue?style=flat-square&logo=appveyor">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square&logo=appveyor">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=flat-square?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Author-Aarush%20Paul-blue?style=flat-square?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square?style=for-the-badge">
 </p>
 
 ### Features
