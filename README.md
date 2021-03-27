@@ -1,5 +1,4 @@
 <h1 align="center">Zphiser-ap</h1>
-<img src="https://img.shields.io/badge/Author-Aarush%20Paul-blue" align="center"></img>
 
 ### Features
 
