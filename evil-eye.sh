@@ -53,6 +53,7 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
+
 ${ORANGE} _|_|_|_|              _|  _|  _|_|_|_|                      
 ${ORANGE} _|        _|      _|      _|  _|        _|    _|    _|_|    
 ${ORANGE} _|_|      _|      _|  _|  _|  _|_|_|    _|    _|  _|_|_|_|  
@@ -62,7 +63,6 @@ ${ORANGE}                                               _|
 ${ORANGE}                                           _|_|_|              
 
                                                   ${RED}Version : 1.0
-         
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
 	EOF
 }
@@ -70,16 +70,16 @@ ${ORANGE}                                           _|_|_|
 ## Small Banner
 banner_small() {
 	cat <<- EOF
+
 ${ORANGE} _|_|_|_|              _|  _|  _|_|_|_|                      
 ${ORANGE} _|        _|      _|      _|  _|        _|    _|    _|_|    
-${ORANGE} |_|_|     _|      _|  _|  _|  _|_|_|    _|    _|  _|_|_|_|  
+${ORANGE} _|_|      _|      _|  _|  _|  _|_|_|    _|    _|  _|_|_|_|  
 ${ORANGE} _|          _|  _|    _|  _|  _|        _|    _|  _|        
 ${ORANGE} _|_|_|_|      _|      _|  _|  _|_|_|_|    _|_|_|    _|_|_|  
 ${ORANGE}                                               _|            
-${ORANGE}                                           _|_|_|             
+${ORANGE}                                           _|_|_|              
 
-	                                              ${RED}Version : 1.0
-         
+                                                  ${RED}Version : 1.0
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
 	EOF
 }
