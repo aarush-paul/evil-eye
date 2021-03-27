@@ -61,7 +61,7 @@ banner() {
         ${ORANGE}|_____| \_/ |_|_| |_____\__, |\___|
         ${ORANGE}                        |___/  
                                               
-                                                  ${RED}Version : 2.1
+                                                  ${RED}Version : 1.0
          
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
 	EOF
@@ -78,7 +78,7 @@ banner_small() {
         ${ORANGE}|_____| \_/ |_|_| |_____\__, |\___|
         ${ORANGE}                        |___/  
                                               
-                                                  ${RED}Version : 2.1
+                                                  ${RED}Version : 1.0
          
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
 	EOF
