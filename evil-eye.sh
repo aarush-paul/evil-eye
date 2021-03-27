@@ -53,13 +53,13 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-	${ORANGE}    ______          _ _    ______
-    ${ORANGE}   |  ____|_     _ (_) |  |  ____|
-    ${ORANGE}   | |__  \ \   / /| | |  | |__   __   _  ___
-    ${ORANGE}   |  __|  \ \ / / | | |  |  __| |  | | |/ _ \
-    ${ORANGE}   | |____  \ V /  | | |  | |____|  |_| |  __/
-    ${ORANGE}   |______|  \_/   |_|_|  |______ \__,  |\___|
-                                               |____/
+    ${ORANGE}.,:::::::::      .::.::: :::    .,::::::.-:.     ::-..,::::::  
+    ${ORANGE};;;;''''';;,   ,;;;' ;;; ;;;    ;;;;'''' ';;.   ;;;;';;;;''''  
+    ${ORANGE} [[cccc  \[[  .[[/   [[[ [[[     [[cccc    '[[,[[['   [[cccc   
+    ${ORANGE} $$""""   Y$c.$$"    $$$ $$'     $$""""      c$$"     $$""""   
+    ${ORANGE} 888oo,__  Y88P      888o88oo,.__888oo,__  ,8P"`      888oo,__ 
+    ${ORANGE} """"YUMMM  MP       MMM""""YUMMM""""YUMMMmM"         """"YUMMM
+
                                                   ${RED}Version : 1.0
          
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
@@ -69,13 +69,12 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-	${ORANGE}    ______          _ _    ______
-    ${ORANGE}   |  ____|_     _ (_) |  |  ____|
-    ${ORANGE}   | |__  \ \   / /| | |  | |__   __   _  ___
-    ${ORANGE}   |  __|  \ \ / / | | |  |  __| |  | | |/ _ \
-    ${ORANGE}   | |____  \ V /  | | |  | |____|  |_| |  __/
-    ${ORANGE}   |______|  \_/   |_|_|  |______ \__,  |\___|
-                                               |____/
+    ${ORANGE}.,:::::::::      .::.::: :::    .,::::::.-:.     ::-..,::::::  
+    ${ORANGE};;;;''''';;,   ,;;;' ;;; ;;;    ;;;;'''' ';;.   ;;;;';;;;''''  
+    ${ORANGE} [[cccc  \[[  .[[/   [[[ [[[     [[cccc    '[[,[[['   [[cccc   
+    ${ORANGE} $$""""   Y$c.$$"    $$$ $$'     $$""""      c$$"     $$""""   
+    ${ORANGE} 888oo,__  Y88P      888o88oo,.__888oo,__  ,8P"`      888oo,__ 
+    ${ORANGE} """"YUMMM  MP       MMM""""YUMMM""""YUMMMmM"         """"YUMMM
 
                                                   ${RED}Version : 1.0
          
