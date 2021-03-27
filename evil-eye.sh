@@ -53,14 +53,13 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-	
-	${ORANGE}     _____       _ _   _____
-    ${ORANGE}    | ____|_   _(_) | | ____|   _  ___
-    ${ORANGE}    |  _| \ \ / / | | |  _|| | | |/ _ \
-    ${ORANGE}    | |___ \ V /| | | | |__| |_| |  __/
-    ${ORANGE}    |_____| \_/ |_|_| |_____\__, |\___|
-    ${ORANGE}                            |___/
-                                              
+	${ORANGE}    ______          _ _    ______
+    ${ORANGE}   |  ____|_     _ (_) |  |  ____|
+    ${ORANGE}   | |__  \ \   / /| | |  | |__   __   _  ___
+    ${ORANGE}   |  __|  \ \ / / | | |  |  __| |  | | |/ _ \
+    ${ORANGE}   | |____  \ V /  | | |  | |____|  |_| |  __/
+    ${ORANGE}   |______|  \_/   |_|_|  |______ \__,  |\___|
+                                               |____/
                                                   ${RED}Version : 1.0
          
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
@@ -70,13 +69,14 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-	${ORANGE}     _____       _ _   _____
-    ${ORANGE}    | ____|_   _(_) | | ____|   _  ___
-    ${ORANGE}    |  _| \ \ / / | | |  _|| | | |/ _ \
-    ${ORANGE}    | |___ \ V /| | | | |__| |_| |  __/
-    ${ORANGE}    |_____| \_/ |_|_| |_____\__, |\___|
-    ${ORANGE}                            |___/
-                                              
+	${ORANGE}    ______          _ _    ______
+    ${ORANGE}   |  ____|_     _ (_) |  |  ____|
+    ${ORANGE}   | |__  \ \   / /| | |  | |__   __   _  ___
+    ${ORANGE}   |  __|  \ \ / / | | |  |  __| |  | | |/ _ \
+    ${ORANGE}   | |____  \ V /  | | |  | |____|  |_| |  __/
+    ${ORANGE}   |______|  \_/   |_|_|  |______ \__,  |\___|
+                                               |____/
+
                                                   ${RED}Version : 1.0
          
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aarush Paul${WHITE}
