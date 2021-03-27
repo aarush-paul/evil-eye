@@ -53,7 +53,6 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
 		${ORANGE} _____       _ _   _____
         ${ORANGE}| ____|_   _(_) | | ____|   _  ___
         ${ORANGE}|  _| \ \ / / | | |  _|| | | |/ _ \
