@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square?style=for-the-badge">
 </p>
 
+### About
+
+- A very powerful phishing tool with latest login pages
+
 ### Features
 
 - Latest and updated login pages.
@@ -42,6 +46,11 @@ $ bash evil-eye.sh
 - `wget`
 - `curl`
 - `git`
+
+### WARNING
+>*ONLY FOR EDUCATIONAL PURPOSE*
+
+### Author's Note
 
 > All the dependencies will be installed automatically when you run `Evil Eye` for the first time.
 
