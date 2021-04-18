@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" alt="Evil Eye">
 <img src=".img/icon.png" alt="Evil Eye">
 </p>
 <h1 align="center"><img src="https://img.shields.io/badge/-Evil%20Eye-red?style=for-the-badge" width="500" height="100"></h1>
